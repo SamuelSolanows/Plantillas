@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item1"
+        android:icon="@drawable/baseline_1k_24"
+        android:title="item1" />
+    <item
+        android:id="@+id/item2"
+        android:icon="@drawable/baseline_2k_24"
+        android:title="Item2" />
+
+    <item
+        android:id="@+id/item3"
+        android:icon="@drawable/baseline_3k_24"
+        android:title="item3" />
+</menu>
